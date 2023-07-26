@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://blog.naver.com/mindcare_blog" target="_blank"><img src="https://img.shields.io/badge/마인드케어?style=flat-square&logo=Naver&logoColor=03C75A"/></a>
+<a href="https://blog.naver.com/mindcare_blog" target="_blank"><img src="https://img.shields.io/badge/마인드케어-?style=flat-square&logo=Naver&logoColor=03C75A"/></a>
