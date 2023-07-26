@@ -1,6 +1,7 @@
 # Hi, My name is Gyeongjun-Song 👋🏻
-## I am studying and sharing ai-related projects. 
-## I wish you well. 🙏🏻
+## I am studying and sharing ai-related projects. 🙏🏻
+<a href="https://blog.naver.com/mindcare_blog" target="FFFFFF"><img src="https://img.shields.io/badge/Naver blog-배경색?style=flat-square&logo=Naver&logoColor=FFFFFF"/></a>
+<a href="https://pf.kakao.com/_YjIhG" target="FFFFFF"><img src="https://img.shields.io/badge/kakao channel-배경색?style=flat-square&logo=kakaotalk&logoColor=FFFFFF"/></a>
 
 
 <!--
@@ -18,4 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://blog.naver.com/mindcare_blog" target="FFFFFF"><img src="https://img.shields.io/badge/마인드케어-배경색?style=flat-square&logo=Naver&logoColor=FFFFFF"/></a>
