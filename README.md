@@ -1,6 +1,6 @@
-### Hi there 👋
-## Hi
-# Hi
+# Hi, My name is Gyeongjun-Song 👋🏻
+## I am studying and sharing ai-related projects. 
+## I wish you well. 🙏🏻
 
 
 <!--
