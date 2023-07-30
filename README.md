@@ -1,6 +1,6 @@
 ## I am studying and sharing AI projects. 🙏🏻
-<a href="https://blog.naver.com/mindcare_blog" target="FFFFFF"><img src="https://img.shields.io/badge/Naver blog-배경색?style=flat-square&logo=Naver&logoColor=FFFFFF"/></a>
-<a href="https://pf.kakao.com/_YjIhG" target="FFFFFF"><img src="https://img.shields.io/badge/kakao channel-FFCD00?style=flat-square&logo=kakaotalk&logoColor=000000"/></a>
+<!--<a href="https://blog.naver.com/mindcare_blog" target="FFFFFF"><img src="https://img.shields.io/badge/Naver blog-배경색?style=flat-square&logo=Naver&logoColor=FFFFFF"/></a>
+<!-- <a href="https://pf.kakao.com/_YjIhG" target="FFFFFF"><img src="https://img.shields.io/badge/kakao channel-FFCD00?style=flat-square&logo=kakaotalk&logoColor=000000"/></a>
 
 
 <!--
